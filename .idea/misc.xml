@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ShopTask1/pom.xml" />
+        <option value="$PROJECT_DIR$/HotelTask1/pom.xml" />
+        <option value="$PROJECT_DIR$/BearAndBees/pom.xml" />
+        <option value="$PROJECT_DIR$/SmokersTask/pom.xml" />
+        <option value="$PROJECT_DIR$/CannibalTask/pom.xml" />
+        <option value="$PROJECT_DIR$/HospitalTask/pom.xml" />
+        <option value="$PROJECT_DIR$/FirstArmyTask/pom.xml" />
+        <option value="$PROJECT_DIR$/bearOrWrongBees/pom.xml" />
+        <option value="$PROJECT_DIR$/FilosophersTask/pom.xml" />
+        <option value="$PROJECT_DIR$/HairdresserTask/pom.xml" />
+        <option value="$PROJECT_DIR$/SupermarketTask/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>

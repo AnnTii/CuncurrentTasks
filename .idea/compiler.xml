@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HotelTask1" />
+        <module name="HospitalTask" />
+        <module name="bearOrWrongBees" />
+        <module name="SupermarketTask" />
+        <module name="HairdresserTask" />
+        <module name="BearAndBees" />
+        <module name="SmokersTask" />
+        <module name="ShopTask1" />
+        <module name="FilosophersTask" />
+        <module name="CannibalTask" />
+        <module name="FirstArmyTask" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BearAndBees" target="11" />
+      <module name="bearOrWrongBees" target="11" />
+      <module name="CannibalTask" target="11" />
+      <module name="FilosophersTask" target="11" />
+      <module name="FirstArmyTask" target="11" />
+      <module name="HairdresserTask" target="11" />
+      <module name="HospitalTask" target="11" />
+      <module name="HotelTask1" target="11" />
+      <module name="ShopTask1" target="11" />
+      <module name="SmokersTask" target="11" />
+      <module name="SupermarketTask" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

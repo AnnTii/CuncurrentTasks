@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BearAndBees/BearAndBees.iml" filepath="$PROJECT_DIR$/BearAndBees/BearAndBees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CannibalTask/CannibalTask.iml" filepath="$PROJECT_DIR$/CannibalTask/CannibalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CuncurrentTasks.iml" filepath="$PROJECT_DIR$/.idea/CuncurrentTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilosophersTask/FilosophersTask.iml" filepath="$PROJECT_DIR$/FilosophersTask/FilosophersTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstArmyTask/FirstArmyTask.iml" filepath="$PROJECT_DIR$/FirstArmyTask/FirstArmyTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HairdresserTask/HairdresserTask.iml" filepath="$PROJECT_DIR$/HairdresserTask/HairdresserTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalTask/HospitalTask.iml" filepath="$PROJECT_DIR$/HospitalTask/HospitalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelTask1/HotelTask1.iml" filepath="$PROJECT_DIR$/HotelTask1/HotelTask1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopTask1/ShopTask1.iml" filepath="$PROJECT_DIR$/ShopTask1/ShopTask1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmokersTask/SmokersTask.iml" filepath="$PROJECT_DIR$/SmokersTask/SmokersTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SupermarketTask/SupermarketTask.iml" filepath="$PROJECT_DIR$/SupermarketTask/SupermarketTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bearOrWrongBees/bearOrWrongBees.iml" filepath="$PROJECT_DIR$/bearOrWrongBees/bearOrWrongBees.iml" />
+    </modules>
+  </component>
+</project>

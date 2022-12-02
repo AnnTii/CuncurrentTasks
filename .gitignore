@@ -1,0 +1,12 @@
+# Project exclude paths
+/BearAndBees/target/
+/bearOrWrongBees/target/
+/CannibalTask/target/
+/FilosophersTask/target/
+/FirstArmyTask/target/
+/HairdresserTask/target/
+/HospitalTask/target/
+/HotelTask1/target/
+/ShopTask1/target/
+/SmokersTask/target/
+/SupermarketTask/target/
